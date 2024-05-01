@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🙋🏻‍♂️ Hi, I am Raghavendra Kowtal
+🔭 I’m currently working on C#, SQL, .NET 8, Angular <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Machine learning, Artificial Intelligence, C#,  <br>📧 Reach me -@raghavendrakowtal@gmail.com
 
 
 ## 🌐 Socials:
