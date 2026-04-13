@@ -1,6 +1,7 @@
 # 💫 About Me:
 🙋🏻‍♂️ Hi, I am Raghavendra Kowtal<br>
-🔭 I’m currently working on C#, SQL, .NET 8, Angular <br>🤝  I’m currently learning Machine learning, Artificial Intelligence, C#,  <br>📧 Reach me -@raghavendrakowtal@gmail.com
+🔭 I’m a fullstack engineer working on AI, Agentic AI, LLM, C#, SQL, .NET 8, Blazor <br>
+📧 Reach me -@raghavendrakowtal@gmail.com
 
 
 ## 🌐 Socials:
